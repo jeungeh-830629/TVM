@@ -28,8 +28,8 @@ python -m venv venv
 pip install -r requirements.txt
 
 
-3. 실행 파일(.exe) 빌드
-백신 프로그램의 실시간 감시를 잠시 끄고 아래 명령어를 실행하세요:
+실행 파일(.exe) 빌드
+아래 명령어를 실행하세요:
 python build_exe.py
 
 빌드가 완료되면 dist/TVM 폴더 안에 실행 파일이 생성됩니다.
